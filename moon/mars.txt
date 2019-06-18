@@ -1,0 +1,7 @@
+My first git class
+# to add multiple files to staging area before commit
+just use
+git add *.txt # all files with txt extensions
+git add file1 file2 ... # add needed files 
+git add . # all files 
+git diff file # to see all things we did with file
